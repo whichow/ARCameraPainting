@@ -1,0 +1,14 @@
+Library
+obj
+Temp
+*_Data
+*.zip
+*.rar
+*.exe
+*.apk
+*.userprefs
+*.sln
+*.suo
+*.csproj
+*.unityproj
+.svn

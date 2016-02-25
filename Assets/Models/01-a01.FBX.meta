@@ -1,0 +1,438 @@
+fileFormatVersion: 2
+guid: fb8f95ce2e7eddd4ca478b445269c5ce
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ______001
+    100004: Bip001
+    100006: Bip001 Head
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger02
+    100018: Bip001 L Finger1
+    100020: Bip001 L Finger11
+    100022: Bip001 L Finger12
+    100024: Bip001 L Finger2
+    100026: Bip001 L Finger21
+    100028: Bip001 L Finger22
+    100030: Bip001 L Finger3
+    100032: Bip001 L Finger31
+    100034: Bip001 L Finger32
+    100036: Bip001 L Finger4
+    100038: Bip001 L Finger41
+    100040: Bip001 L Finger42
+    100042: Bip001 L Foot
+    100044: Bip001 L Forearm
+    100046: Bip001 L Hand
+    100048: Bip001 L Thigh
+    100050: Bip001 L Toe0
+    100052: Bip001 L UpperArm
+    100054: Bip001 Neck
+    100056: Bip001 Pelvis
+    100058: Bip001 Prop1
+    100060: Bip001 R Calf
+    100062: Bip001 R Clavicle
+    100064: Bip001 R Finger0
+    100066: Bip001 R Finger01
+    100068: Bip001 R Finger02
+    100070: Bip001 R Finger1
+    100072: Bip001 R Finger11
+    100074: Bip001 R Finger12
+    100076: Bip001 R Finger2
+    100078: Bip001 R Finger21
+    100080: Bip001 R Finger22
+    100082: Bip001 R Finger3
+    100084: Bip001 R Finger31
+    100086: Bip001 R Finger32
+    100088: Bip001 R Finger4
+    100090: Bip001 R Finger41
+    100092: Bip001 R Finger42
+    100094: Bip001 R Foot
+    100096: Bip001 R Forearm
+    100098: Bip001 R Hand
+    100100: Bip001 R Thigh
+    100102: Bip001 R Toe0
+    100104: Bip001 R UpperArm
+    100106: Bip001 Spine
+    100108: Bip001 Spine1
+    100110: Bone001
+    100112: Bone002
+    100114: Bone003
+    100116: Bone004
+    100118: Bone005
+    100120: Bone006
+    100122: Bone007
+    100124: Bone008
+    100126: Bone009
+    100128: Bone010
+    100130: Bone011
+    100132: Bone012
+    100134: Bone013
+    100136: Bone014
+    100138: Bone015
+    100140: Bone016
+    100142: Bone017
+    100144: Bone019
+    100146: Bone020
+    100148: Bone022
+    100150: Bone023
+    100152: Bone023(mirrored)
+    100154: Bone025
+    100156: Bone025(mirrored)
+    100158: Bone027
+    100160: Bone028
+    100162: Bone028(mirrored)
+    100164: Bone029
+    100166: Bone030
+    100168: Bone031
+    100170: Bone032
+    100172: Bone033
+    100174: Bone034
+    100176: Bone035
+    100178: Camera001
+    100180: caodui
+    100182: capdi
+    100184: hua
+    100186: hua1
+    100188: hua2
+    100190: hua3
+    100192: hua4
+    100194: hua5
+    100196: hua6
+    100198: hua7
+    100200: hua8
+    100202: hua9
+    100204: nvjuese
+    100206: polySurface10
+    100208: polySurface11
+    100210: polySurface12
+    100212: polySurface13
+    100214: polySurface14
+    100216: polySurface15
+    100218: polySurface16
+    100220: polySurface17
+    100222: polySurface18
+    100224: polySurface19
+    100226: polySurface20
+    100228: polySurface21
+    100230: polySurface22
+    100232: polySurface23
+    100234: polySurface24
+    100236: polySurface25
+    100238: polySurface26
+    100240: polySurface27
+    100242: polySurface5
+    100244: polySurface6
+    100246: polySurface7
+    100248: polySurface8
+    100250: polySurface9
+    100252: taiyang
+    100254: yinfu
+    100256: yun
+    400000: //RootNode
+    400002: ______001
+    400004: Bip001
+    400006: Bip001 Head
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger02
+    400018: Bip001 L Finger1
+    400020: Bip001 L Finger11
+    400022: Bip001 L Finger12
+    400024: Bip001 L Finger2
+    400026: Bip001 L Finger21
+    400028: Bip001 L Finger22
+    400030: Bip001 L Finger3
+    400032: Bip001 L Finger31
+    400034: Bip001 L Finger32
+    400036: Bip001 L Finger4
+    400038: Bip001 L Finger41
+    400040: Bip001 L Finger42
+    400042: Bip001 L Foot
+    400044: Bip001 L Forearm
+    400046: Bip001 L Hand
+    400048: Bip001 L Thigh
+    400050: Bip001 L Toe0
+    400052: Bip001 L UpperArm
+    400054: Bip001 Neck
+    400056: Bip001 Pelvis
+    400058: Bip001 Prop1
+    400060: Bip001 R Calf
+    400062: Bip001 R Clavicle
+    400064: Bip001 R Finger0
+    400066: Bip001 R Finger01
+    400068: Bip001 R Finger02
+    400070: Bip001 R Finger1
+    400072: Bip001 R Finger11
+    400074: Bip001 R Finger12
+    400076: Bip001 R Finger2
+    400078: Bip001 R Finger21
+    400080: Bip001 R Finger22
+    400082: Bip001 R Finger3
+    400084: Bip001 R Finger31
+    400086: Bip001 R Finger32
+    400088: Bip001 R Finger4
+    400090: Bip001 R Finger41
+    400092: Bip001 R Finger42
+    400094: Bip001 R Foot
+    400096: Bip001 R Forearm
+    400098: Bip001 R Hand
+    400100: Bip001 R Thigh
+    400102: Bip001 R Toe0
+    400104: Bip001 R UpperArm
+    400106: Bip001 Spine
+    400108: Bip001 Spine1
+    400110: Bone001
+    400112: Bone002
+    400114: Bone003
+    400116: Bone004
+    400118: Bone005
+    400120: Bone006
+    400122: Bone007
+    400124: Bone008
+    400126: Bone009
+    400128: Bone010
+    400130: Bone011
+    400132: Bone012
+    400134: Bone013
+    400136: Bone014
+    400138: Bone015
+    400140: Bone016
+    400142: Bone017
+    400144: Bone019
+    400146: Bone020
+    400148: Bone022
+    400150: Bone023
+    400152: Bone023(mirrored)
+    400154: Bone025
+    400156: Bone025(mirrored)
+    400158: Bone027
+    400160: Bone028
+    400162: Bone028(mirrored)
+    400164: Bone029
+    400166: Bone030
+    400168: Bone031
+    400170: Bone032
+    400172: Bone033
+    400174: Bone034
+    400176: Bone035
+    400178: Camera001
+    400180: caodui
+    400182: capdi
+    400184: hua
+    400186: hua1
+    400188: hua2
+    400190: hua3
+    400192: hua4
+    400194: hua5
+    400196: hua6
+    400198: hua7
+    400200: hua8
+    400202: hua9
+    400204: nvjuese
+    400206: polySurface10
+    400208: polySurface11
+    400210: polySurface12
+    400212: polySurface13
+    400214: polySurface14
+    400216: polySurface15
+    400218: polySurface16
+    400220: polySurface17
+    400222: polySurface18
+    400224: polySurface19
+    400226: polySurface20
+    400228: polySurface21
+    400230: polySurface22
+    400232: polySurface23
+    400234: polySurface24
+    400236: polySurface25
+    400238: polySurface26
+    400240: polySurface27
+    400242: polySurface5
+    400244: polySurface6
+    400246: polySurface7
+    400248: polySurface8
+    400250: polySurface9
+    400252: taiyang
+    400254: yinfu
+    400256: yun
+    2300000: caodui
+    2300002: capdi
+    2300004: hua
+    2300006: hua1
+    2300008: hua2
+    2300010: hua3
+    2300012: hua4
+    2300014: hua5
+    2300016: hua6
+    2300018: hua7
+    2300020: hua8
+    2300022: hua9
+    2300024: polySurface10
+    2300026: polySurface11
+    2300028: polySurface12
+    2300030: polySurface13
+    2300032: polySurface14
+    2300034: polySurface15
+    2300036: polySurface16
+    2300038: polySurface17
+    2300040: polySurface18
+    2300042: polySurface19
+    2300044: polySurface20
+    2300046: polySurface21
+    2300048: polySurface22
+    2300050: polySurface23
+    2300052: polySurface24
+    2300054: polySurface25
+    2300056: polySurface26
+    2300058: polySurface27
+    2300060: polySurface5
+    2300062: polySurface6
+    2300064: polySurface7
+    2300066: polySurface8
+    2300068: polySurface9
+    2300070: taiyang
+    2300072: yinfu
+    2300074: yun
+    3300000: caodui
+    3300002: capdi
+    3300004: hua
+    3300006: hua1
+    3300008: hua2
+    3300010: hua3
+    3300012: hua4
+    3300014: hua5
+    3300016: hua6
+    3300018: hua7
+    3300020: hua8
+    3300022: hua9
+    3300024: polySurface10
+    3300026: polySurface11
+    3300028: polySurface12
+    3300030: polySurface13
+    3300032: polySurface14
+    3300034: polySurface15
+    3300036: polySurface16
+    3300038: polySurface17
+    3300040: polySurface18
+    3300042: polySurface19
+    3300044: polySurface20
+    3300046: polySurface21
+    3300048: polySurface22
+    3300050: polySurface23
+    3300052: polySurface24
+    3300054: polySurface25
+    3300056: polySurface26
+    3300058: polySurface27
+    3300060: polySurface5
+    3300062: polySurface6
+    3300064: polySurface7
+    3300066: polySurface8
+    3300068: polySurface9
+    3300070: taiyang
+    3300072: yinfu
+    3300074: yun
+    4300000: nvjuese
+    4300002: hua9
+    4300004: hua8
+    4300006: hua7
+    4300008: hua6
+    4300010: hua5
+    4300012: hua4
+    4300014: hua3
+    4300016: hua2
+    4300018: hua1
+    4300020: yinfu
+    4300022: hua
+    4300024: taiyang
+    4300026: yun
+    4300028: caodui
+    4300030: capdi
+    4300032: polySurface27
+    4300034: polySurface26
+    4300036: polySurface25
+    4300038: polySurface24
+    4300040: polySurface23
+    4300042: polySurface22
+    4300044: polySurface21
+    4300046: polySurface20
+    4300048: polySurface19
+    4300050: polySurface18
+    4300052: polySurface17
+    4300054: polySurface16
+    4300056: polySurface15
+    4300058: polySurface14
+    4300060: polySurface13
+    4300062: polySurface12
+    4300064: polySurface11
+    4300066: polySurface10
+    4300068: polySurface9
+    4300070: polySurface8
+    4300072: polySurface7
+    4300074: polySurface6
+    4300076: polySurface5
+    4300078: ______001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ______001
+    13700002: nvjuese
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
